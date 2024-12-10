@@ -1,6 +1,6 @@
 # Ma version
 import pandas as pd
-data = pd.read_csv('j1.csv')
+data = pd.read_csv('j1-1.csv')
 
 l1 = []
 l2 = []
@@ -26,7 +26,7 @@ print(result)
 import pandas as pd
 
 # Lecture des données
-data = pd.read_csv('j1.csv')
+data = pd.read_csv('j1-1.csv')
 
 # Initialisation des listes et du résultat
 list_1 = []
